@@ -23,6 +23,10 @@ Programming is just a tiny universe with a little God doing little things ✨.
 Contacts:
   - [![Gmail Badge](https://img.shields.io/badge/-tiziano.nicosia01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiziano.nicosia01@gmail.com)](mailto:tiziano.nicosia01@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiziano-nicosia-a6825324b/)](https://www.linkedin.com/in/tiziano-nicosia-a6825324b/)
+
+<hr>
+
+⚡ Fun fact: I type every single key of the keyboard using only index fingers
 <!--
 **Tirzo01/Tirzo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
