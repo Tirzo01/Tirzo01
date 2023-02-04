@@ -7,7 +7,7 @@ Languages/Frameworks I'm good at:
   - <img src="./img/js.png" width=20px height=20px>    JavaScript 
   - <img src="./img/react.png" width=25px height=20px>   React
   - <img src="./img/c.png" width=20px height=20px>   C/C++
-  - <img src="./img/csharp.png" width=20px height=20px>   C# 
+  - <img src="./img/csharp.png" width=30px height=30px>   C# 
   - <img src="./img/java.png" width=20px height=20px>   Java
 <!--
 **Tirzo01/Tirzo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
