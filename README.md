@@ -15,6 +15,9 @@ Programming is just a tiny universe with a little God doing little things.
 
 🌱 I'm currently learning next.js framework.
 <hr>
+
+Contacts:
+  - Hello
 <!--
 **Tirzo01/Tirzo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
