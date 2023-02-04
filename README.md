@@ -12,6 +12,7 @@ Programming is just a tiny universe with a little God doing little things.
 - <img src="./img/c.png" width=20px height=20px>   C/C++
 - <img src="./img/csharp.png" width=20px height=20px>   C# 
 - <img src="./img/java.png" width=20px height=20px>   Java
+
 🌱 I'm currently learning next.js framework.
 
 <!--
