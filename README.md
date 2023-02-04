@@ -4,9 +4,9 @@ My name is Tiziano. I'm primarily a Frontend Developer based on Sicily ❤️.
 
 Languages/Frameworks I'm good at:
   - As Web Developer:
-    - <img src="./img/html.png" width=30px height=30px> HTML & CSS
-    - <img src="./img/js.png" width=30px height=30px> JavaScript 
-    - <img src="./img/react.png" width=30px height=30px>> React
+    - <img src="./img/html.png" width=30px height=30px>   HTML & CSS
+    - <img src="./img/js.png" width=30px height=30px>    JavaScript 
+    - <img src="./img/react.png" width=30px height=30px>   React
 <!--
 **Tirzo01/Tirzo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
