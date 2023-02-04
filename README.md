@@ -4,7 +4,7 @@ My name is Tiziano. I'm primarily a Frontend Developer based on Sicily ❤️.
 
 Languages/Frameworks I'm good at:
   - As Web Developer:
-    - <img src="./img/html.png">
+    - <img src="./img/html.png" width=20px heigth=20px>
 <!--
 **Tirzo01/Tirzo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
