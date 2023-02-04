@@ -2,7 +2,7 @@
 
 My name is Tiziano. I'm primarily a Frontend Developer based on Sicily ❤️. 
 
-Programming is just a tiny universe with a little God doing little things ✨🪐.
+Programming is just a tiny universe with a little God doing little things ✨.
 <hr>
 
 🔭 Languages/Frameworks I'm good at:
