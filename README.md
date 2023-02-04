@@ -19,6 +19,7 @@ Currently...
 
   🌱 I'm learning next.js framework and improve my skills making personal projects.
 
+<hr>
 
 Contacts:
   - [![Gmail Badge](https://img.shields.io/badge/-tiziano.nicosia01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiziano.nicosia01@gmail.com)](mailto:tiziano.nicosia01@gmail.com)
