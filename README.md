@@ -11,6 +11,7 @@ Programming is just a tiny universe with a little God doing little things.
 ![Cplusplus](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Csharp](https://img.shields.io/badge/-C%20Sharp-280068?style=flat-square&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=&logoColor=0074BD)
+[![Gmail Badge](https://img.shields.io/badge/-ing.miller.vega@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:ing.miller.vega@gmail.com)
 
 🌱 I'm currently learning next.js framework.
 <hr>
