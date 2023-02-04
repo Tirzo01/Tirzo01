@@ -16,6 +16,7 @@ Programming is just a tiny universe with a little God doing little things ✨.
 <hr>
 
 Currently...
+
   🌱 I'm learning next.js framework and improve my skills making personal projects.
 
 
