@@ -6,12 +6,11 @@ Programming is just a tiny universe with a little God doing little things.
 <hr>
 
 🔭 Languages/Frameworks I'm good at:
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-- ![React](https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=white)
-- ![Cplusplus](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-- ![Csharp](https://img.shields.io/badge/-C%20Sharp-280068?style=flat-square&logo=csharp&logoColor=white)
-- ![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=&logoColor=0074BD)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=white)
+![Cplusplus](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Csharp](https://img.shields.io/badge/-C%20Sharp-280068?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=&logoColor=0074BD)
 
 🌱 I'm currently learning next.js framework.
 
