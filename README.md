@@ -13,8 +13,6 @@ Programming is just a tiny universe with a little God doing little things.
     - <img src="./img/csharp.png" width=20px height=20px>   C# 
     - <img src="./img/java.png" width=20px height=20px>   Java
 
-🌱 I'm currently learning next.js framework.
-
 <!--
 **Tirzo01/Tirzo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
