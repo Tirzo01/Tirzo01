@@ -10,8 +10,8 @@ Programming is just a tiny universe with a little God doing little things.
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 - ![React](https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=white)
 - ![Cplusplus](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-- ![csharp](https://img.shields.io/badge/-C##-00599C?style=flat-square&logo=csharp&logoColor=white)
-- <img src="./img/java.png" width=20px height=20px>   Java
+- ![csharp](https://img.shields.io/badge/-C%20Sharp-280068?style=flat-square&logo=csharp&logoColor=white)
+- ![csharp](https://img.shields.io/badge/-Java-white?style=flat-square&logo=java&logoColor=0074BD)
 
 🌱 I'm currently learning next.js framework.
 
