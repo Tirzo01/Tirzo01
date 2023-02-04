@@ -14,6 +14,7 @@ Programming is just a tiny universe with a little God doing little things.
 
 🌱 I'm currently learning next.js framework.
 <hr>
+![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=&logoColor=0074BD)
 <!--
 **Tirzo01/Tirzo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
