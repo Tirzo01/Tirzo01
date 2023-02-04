@@ -1,4 +1,4 @@
-### Hello, world 👋
+### Hello, World 👋
 
 My name is Tiziano. I'm primarily a Frontend Developer based on Sicily ❤️. 
 
