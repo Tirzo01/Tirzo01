@@ -13,8 +13,11 @@ Programming is just a tiny universe with a little God doing little things ✨.
 ![Csharp](https://img.shields.io/badge/-C%20Sharp-280068?style=flat-square&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=&logoColor=0074BD)
 
-🌱 I'm currently learning next.js framework.
 <hr>
+
+Currently...
+🌱 I'm learning next.js framework and improve my skills making personal projects.
+
 
 Contacts:
   - [![Gmail Badge](https://img.shields.io/badge/-tiziano.nicosia01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiziano.nicosia01@gmail.com)](mailto:tiziano.nicosia01@gmail.com)
