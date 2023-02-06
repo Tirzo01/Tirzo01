@@ -1,6 +1,6 @@
 ### Hello, World 👋
 
-My name is Tiziano. I'm primarily a Frontend Developer based on Sicily ❤️. 
+My name is Tiziano. I'm primarily a Frontend Developer based in Sicily ❤️. 
 
 Programming is just a tiny universe with a little God doing little things ✨.
 <hr>
