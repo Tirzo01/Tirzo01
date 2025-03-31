@@ -20,9 +20,6 @@ Programming is just a tiny universe with a little God doing little things ✨.
 ![Csharp](https://img.shields.io/badge/-C%20Sharp-280068?style=flat-square&logo=csharp&logoColor=white)
 <hr>
 
-🌱 Currently...
-  - I'm learning next.js framework and improve my skills by making personal projects.
-
 <hr>
 
 Contacts:
