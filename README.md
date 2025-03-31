@@ -6,11 +6,11 @@ Programming is just a tiny universe with a little God doing little things ✨.
 <hr>
 
 🔭 Languages/Frameworks I'm good at:
-- ![AWS](https://img.shields.io/badge/-AWS-E34F26?style=flat-square&logo=amazonwebservices&logoColor=white) 
+- ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) 
 ![React](https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-E34F26?style=flat-square&logo=serverless&logoColor=white)
+![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
 
-![Cplusplus](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+- ![Cplusplus](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Csharp](https://img.shields.io/badge/-C%20Sharp-280068?style=flat-square&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=&logoColor=0074BD)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
