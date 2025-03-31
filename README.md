@@ -5,18 +5,19 @@ My name is Tiziano. I'm a Full-Stack developer based in Sicily ❤️.
 Programming is just a tiny universe with a little God doing little things ✨.
 <hr>
 
-🔭 Languages/Frameworks I'm good at:
+🔭 Frameworks/Technologies:
 - ![React](https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) 
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
 
-- 
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+🔭 Languages I'm good at:
+- ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Typescript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=&logoColor=0074BD)
 ![Cplusplus](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Csharp](https://img.shields.io/badge/-C%20Sharp-280068?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=&logoColor=0074BD)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-
 <hr>
 
 🌱 Currently...
