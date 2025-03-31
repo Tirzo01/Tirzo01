@@ -6,8 +6,8 @@ Programming is just a tiny universe with a little God doing little things ✨.
 <hr>
 
 🔭 Languages/Frameworks I'm good at:
-- ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) 
-![React](https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) 
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
 
 - ![Cplusplus](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
